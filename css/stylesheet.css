@@ -17,9 +17,12 @@ img {
 
 p {
   font-family: sans-serif;
+  align-content: center;
 }
 ul {
   line-height: 40px;
+  list-style-type: none;
+
 }
 
 body {
