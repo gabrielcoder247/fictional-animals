@@ -1,0 +1,23 @@
+.header h1 {
+
+  color:blue;
+  font-style: italic;
+  text-align: center;
+}
+
+img {
+
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  max-height: 400px;
+  min-width: 1200px;
+
+   }
+
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
